@@ -1,1 +1,2 @@
-# tiendaOnlineAngular2
+Tienda Virtual Con Angular 2
+
